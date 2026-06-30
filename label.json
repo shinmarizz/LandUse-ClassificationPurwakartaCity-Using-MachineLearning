@@ -1,0 +1,17 @@
+{
+  "palette": [
+    "#228B22", 
+    "#D2B48C", 
+    "#FF0000", 
+    "#800080", 
+    "#1E90FF"  
+  ],
+  "values": [101, 102, 103, 104, 105],
+  "label": [
+    "Vegetation",
+    "Bare land",
+    "Residence area",
+    "Industry",
+    "Water bodies"
+  ]
+}
